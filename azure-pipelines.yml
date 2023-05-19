@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: 'Default'
+  name: 'CNVXA-Linux'
 
 variables:
   solution: '**/*.sln'
